@@ -1,0 +1,9 @@
+C:\Workspaces\vs-workspace\alura-leilao-online\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netstandard2.0\Alura.LeilaoOnline.Core.deps.json
+C:\Workspaces\vs-workspace\alura-leilao-online\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netstandard2.0\Alura.LeilaoOnline.Core.dll
+C:\Workspaces\vs-workspace\alura-leilao-online\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netstandard2.0\Alura.LeilaoOnline.Core.pdb
+C:\Workspaces\vs-workspace\alura-leilao-online\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netstandard2.0\Alura.LeilaoOnline.Core.csproj.AssemblyReference.cache
+C:\Workspaces\vs-workspace\alura-leilao-online\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netstandard2.0\Alura.LeilaoOnline.Core.AssemblyInfoInputs.cache
+C:\Workspaces\vs-workspace\alura-leilao-online\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netstandard2.0\Alura.LeilaoOnline.Core.AssemblyInfo.cs
+C:\Workspaces\vs-workspace\alura-leilao-online\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netstandard2.0\Alura.LeilaoOnline.Core.csproj.CoreCompileInputs.cache
+C:\Workspaces\vs-workspace\alura-leilao-online\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netstandard2.0\Alura.LeilaoOnline.Core.dll
+C:\Workspaces\vs-workspace\alura-leilao-online\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netstandard2.0\Alura.LeilaoOnline.Core.pdb
