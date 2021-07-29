@@ -1,5 +1,5 @@
-﻿using Alura.LeilaoOnline.Core;
-using System;
+﻿using System;
+using Alura.LeilaoOnline.Core;
 
 namespace Alura.LeilaoOnline.ConsoleApp
 {
@@ -7,7 +7,7 @@ namespace Alura.LeilaoOnline.ConsoleApp
     {
         private static void Verifica(double esperado, double obtido)
         {
-            var cor = Console.BackgroundColor;
+            var cor = Console.ForegroundColor;
             if (esperado == obtido)
             {
                 Console.ForegroundColor = ConsoleColor.Green;
@@ -16,13 +16,15 @@ namespace Alura.LeilaoOnline.ConsoleApp
             else
             {
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine($"TESTE FALHOU! Esperado: {esperado}, obtido: {obtido}");
+                Console.WriteLine(
+                    $"TESTE FALHOU! Esperado: {esperado}, obtido: {obtido}.");
             }
             Console.ForegroundColor = cor;
         }
+
         private static void LeilaoComVariosLances()
         {
-            //Arrange - cenário
+            //Arranje - cenário
             var leilao = new Leilao("Van Gogh");
             var fulano = new Interessada("Fulano", leilao);
             var maria = new Interessada("Maria", leilao);
@@ -36,19 +38,17 @@ namespace Alura.LeilaoOnline.ConsoleApp
             leilao.TerminaPregao();
 
             //Assert
-            var valorEsperado = 1000;
+            var valorEsperado = 1200;
             var valorObtido = leilao.Ganhador.Valor;
-
             Verifica(valorEsperado, valorObtido);
 
         }
 
         private static void LeilaoComApenasUmLance()
         {
-            //Arrange - cenário
+            //Arranje - cenário
             var leilao = new Leilao("Van Gogh");
             var fulano = new Interessada("Fulano", leilao);
-
 
             leilao.RecebeLance(fulano, 800);
 
@@ -56,11 +56,12 @@ namespace Alura.LeilaoOnline.ConsoleApp
             leilao.TerminaPregao();
 
             //Assert
-            var valorEsperado = 900; //erro para teste
+            var valorEsperado = 800;
             var valorObtido = leilao.Ganhador.Valor;
 
             Verifica(valorEsperado, valorObtido);
         }
+
         static void Main()
         {
             LeilaoComVariosLances();
