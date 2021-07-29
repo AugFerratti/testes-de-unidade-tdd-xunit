@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ouv0eUAwYj9qHtlqayJknxYlI45mv602WTfZzuCi2OimXe3T/WsTpRA7CUQ+QrgCJI6zsKB0vVaXb6Zg/OtfxQ==",
+  "dgSpecHash": "rGOTZfjEoBKF1uTC/bivHE2UCJwfklWd230nMUgriEc3/HODyL1HHaAw26c27ItFUQ6U880OWSIbIB2Q3HjP/A==",
   "success": true,
-  "projectFilePath": "C:\\Workspaces\\vs-workspace\\alura-leilao-online\\Alura.LeilaoOnline\\Alura.LeilaoOnline.ConsoleApp\\Alura.LeilaoOnline.ConsoleApp.csproj",
+  "projectFilePath": "C:\\Users\\augusto.ferratti\\Source\\Repos\\AugFerratti\\testes-de-unidade-tdd-xunit\\Alura.LeilaoOnline.ConsoleApp\\Alura.LeilaoOnline.ConsoleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

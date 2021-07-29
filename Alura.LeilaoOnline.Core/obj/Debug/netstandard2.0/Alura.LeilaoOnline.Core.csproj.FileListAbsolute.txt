@@ -7,3 +7,12 @@ C:\Workspaces\vs-workspace\alura-leilao-online\Alura.LeilaoOnline\Alura.LeilaoOn
 C:\Workspaces\vs-workspace\alura-leilao-online\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netstandard2.0\Alura.LeilaoOnline.Core.csproj.CoreCompileInputs.cache
 C:\Workspaces\vs-workspace\alura-leilao-online\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netstandard2.0\Alura.LeilaoOnline.Core.dll
 C:\Workspaces\vs-workspace\alura-leilao-online\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netstandard2.0\Alura.LeilaoOnline.Core.pdb
+C:\Users\augusto.ferratti\Source\Repos\AugFerratti\testes-de-unidade-tdd-xunit\Alura.LeilaoOnline.Core\bin\Debug\netstandard2.0\Alura.LeilaoOnline.Core.deps.json
+C:\Users\augusto.ferratti\Source\Repos\AugFerratti\testes-de-unidade-tdd-xunit\Alura.LeilaoOnline.Core\bin\Debug\netstandard2.0\Alura.LeilaoOnline.Core.dll
+C:\Users\augusto.ferratti\Source\Repos\AugFerratti\testes-de-unidade-tdd-xunit\Alura.LeilaoOnline.Core\bin\Debug\netstandard2.0\Alura.LeilaoOnline.Core.pdb
+C:\Users\augusto.ferratti\Source\Repos\AugFerratti\testes-de-unidade-tdd-xunit\Alura.LeilaoOnline.Core\obj\Debug\netstandard2.0\Alura.LeilaoOnline.Core.csproj.AssemblyReference.cache
+C:\Users\augusto.ferratti\Source\Repos\AugFerratti\testes-de-unidade-tdd-xunit\Alura.LeilaoOnline.Core\obj\Debug\netstandard2.0\Alura.LeilaoOnline.Core.AssemblyInfoInputs.cache
+C:\Users\augusto.ferratti\Source\Repos\AugFerratti\testes-de-unidade-tdd-xunit\Alura.LeilaoOnline.Core\obj\Debug\netstandard2.0\Alura.LeilaoOnline.Core.AssemblyInfo.cs
+C:\Users\augusto.ferratti\Source\Repos\AugFerratti\testes-de-unidade-tdd-xunit\Alura.LeilaoOnline.Core\obj\Debug\netstandard2.0\Alura.LeilaoOnline.Core.csproj.CoreCompileInputs.cache
+C:\Users\augusto.ferratti\Source\Repos\AugFerratti\testes-de-unidade-tdd-xunit\Alura.LeilaoOnline.Core\obj\Debug\netstandard2.0\Alura.LeilaoOnline.Core.dll
+C:\Users\augusto.ferratti\Source\Repos\AugFerratti\testes-de-unidade-tdd-xunit\Alura.LeilaoOnline.Core\obj\Debug\netstandard2.0\Alura.LeilaoOnline.Core.pdb
