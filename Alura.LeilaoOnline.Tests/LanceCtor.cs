@@ -8,7 +8,7 @@ namespace Alura.LeilaoOnline.Tests
         [Fact]
         public void LancaArgumentExceptionDadoValorNegativo()
         {
-            //Arranje
+            //Arrange
             var valorNegativo = -100;
 
             //Assert
